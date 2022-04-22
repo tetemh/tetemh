@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm tetemh</h1>
 <h3 align="center">I'm passionate about programming since I was young and I'm leaning towards java at the moment</h3>
 
-- 🔭 Plugin Minecraft [(example) BorderPlugin](https://github.com/tetemh/BorderPlugin)
+- 🔭 Plugin Minecraft [(example) FkPlugin](https://github.com/tetemh/FKPlugin)
 
 - 📫 How to reach me **tetemh.dev@gmail.com**
 
