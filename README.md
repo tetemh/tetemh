@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **php, Java**
+- 💬 Ask me about **php, Java, JS**
 
 - 📫 How to reach me **tetemh.dev@gmail.com**
 
